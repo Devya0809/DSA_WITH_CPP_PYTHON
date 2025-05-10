@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0898-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
