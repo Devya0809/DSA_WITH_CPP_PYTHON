@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0001-two-sum) |
 | [0898-transpose-matrix](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0898-transpose-matrix) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 | [0142-linked-list-cycle-ii](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0908-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
