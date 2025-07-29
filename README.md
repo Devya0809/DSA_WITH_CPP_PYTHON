@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0014-longest-common-prefix) |
 | [0898-transpose-matrix](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0898-transpose-matrix) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
@@ -51,9 +52,14 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Devya0809/DSA_WITH_CPP_PYTHON/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
